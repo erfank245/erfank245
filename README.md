@@ -1,6 +1,7 @@
-- 👋 Hi, I’m @erfank245
-- 👀 I’m interested in Fullstack Development
-- 🌱 I’m currently learning GraphQL
+- 👋 Hi, I’m Erfan Karimian @erfank245
+- 👀 I’m a Fullstack Developer
+- I’m working with Node js and Php with GraphQL and Laravel frameworks for Back-End development and for Front-End i use JavaScript and Dart with React js and flutter frameworks 
+- 🌱 I’m currently learning design for scaling products
 - 📫 How to reach me Erfank246@gmail.com
 
 <!---
